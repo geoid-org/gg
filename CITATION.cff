@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-title: libgg
+title: gg
 version: 0.0.1
 date-released: 2023-07-01
-url: "https://github.com/geoid-org/libgg"
+url: "https://github.com/geoid-org/gg"
 message: >-
-  If you use libgg, please cite it using
+  If you use gg, please cite it using
   the metadata from this file.
 type: software
 authors:
