@@ -6,3 +6,9 @@
 
 # Node
 node_modules/
+
+
+# C
+*.o
+*.so
+*.bin
